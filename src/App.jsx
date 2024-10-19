@@ -1,6 +1,6 @@
 import Question1 from "./pages/question1";
 import Question2 from "./pages/question2";
-import Question3 from "./pages/Question3";
+import Question3 from "./pages/question3";
 import ThankYouPage from "./pages/ThankYouPage";
 import ResultsPage from "./pages/ResultsPage";
 import { Routes, Route } from "react-router-dom";
